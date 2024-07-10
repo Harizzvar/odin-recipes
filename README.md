@@ -1,3 +1,3 @@
 # odin-recipes
 
-This is my first project at the Odin Project. Im building a skeleton website on few recipes from the tv show Friends.
+This is my first project at the Odin Project. Im building a simple skeleton website where I'm sharing few of my favourite recipes from my favourite tv show Friends.
