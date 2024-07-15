@@ -1,7 +1,28 @@
+@font-face {
+    font-family: 'Friends';
+    src: url('./fonts/GABRWFFR.TTF') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
 body {
     background-color: #826c92;
+    color: #eeddc7;
 }
 
 .align {
     text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-family: 'Friends', sans-serif ;
+    color: #eeddc7;
 }
